@@ -1,0 +1,25 @@
+node App.js add --id=1 --fname="Rinad" --lname="Atef Saad Eldin" --age=7
+node App.js add --id=2 --fname="Rinad" --lname="Atef Saad Eldin" --age=5
+node App.js add --id=3 --fname="Shaza" --lname="Mahmoud Gadelkarim"  --city="Alexandria"
+node App.js add --id=8 --fname="Mervat" --lname="Saad Eldin Aql"  
+node App.js add --id=10 --fname="Mustafa" --lname="Saad Eldin Aql" --age=27 --city="Alminya"
+node App.js add --id=4 --fname="Atef" --lname="Saad Eldin Aql" --age=42 --city="Al Minya"
+node App.js add --id=5 --fname="Samy" --lname="Saad Eldin Aql" --age=45 --city="Mansora"
+node App.js add --id=6 --fname="Ahmed" --lname="Saad Eldin Aql" --age=48 --city="Port Said"
+node App.js add --id=7 --fname="Mohamed" --lname="Saad Eldin Aql" --age=51 --city="Hurgada"
+node App.js add --id=9 --fname="Noha" --lname="Saad Eldin Aql" --age=13 --city="Suhag"
+
+node App.js destroy --id=2
+node App.js destroy --id=4
+node App.js destroy --id=6
+node App.js destroy --id=8
+
+node App.js findPerson --id=2 //expected error message
+node App.js findPerson --id=4
+node App.js findPerson --id=5
+node App.js findPerson --id=9
+
+node App.js listAll
+
+
+many thanks to the team (Y)

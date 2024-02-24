@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "firstName": "Rinad",
+    "lastName": "Atef Saad Eldin",
+    "the_age": 7,
+    "the_city": "Cairo"
+  },
+  {
+    "id": 3,
+    "firstName": "Shaza",
+    "lastName": "Mahmoud Gadelkarim",
+    "the_age": 30,
+    "the_city": "Alexandria"
+  },
+  {
+    "id": 10,
+    "firstName": "Mustafa",
+    "lastName": "Saad Eldin Aql",
+    "the_age": 27,
+    "the_city": "Alminya"
+  },
+  {
+    "id": 5,
+    "firstName": "Samy",
+    "lastName": "Saad Eldin Aql",
+    "the_age": 45,
+    "the_city": "Mansora"
+  },
+  {
+    "id": 7,
+    "firstName": "Mohamed",
+    "lastName": "Saad Eldin Aql",
+    "the_age": 51,
+    "the_city": "Hurgada"
+  },
+  {
+    "id": 9,
+    "firstName": "Noha",
+    "lastName": "Saad Eldin Aql",
+    "the_age": 13,
+    "the_city": "Suhag"
+  }
+]
